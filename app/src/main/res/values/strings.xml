@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spinner1</string>
+
+    <string-array name="aves">
+        <item>Gorrión</item>
+        <item>Paloma</item>
+        <item>Roquero solitario</item>
+        <item>Colibrí</item>
+        <item>Mirlo</item>
+    </string-array>
+
+</resources>
